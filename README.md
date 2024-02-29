@@ -17,3 +17,8 @@ Calculator:
 Don't think I have to explain this one.
 
 <img src="https://github.com/JaydenKlomp/ArduinoProjects/blob/main/Calculator/Screenshot%202024-02-29%20113434.png" width="400">
+
+Led strip:
+Just a led strip that changes colors, you can modify what it does within the code.
+
+<img src="https://github.com/JaydenKlomp/ArduinoProjects/blob/main/LedStrip/Screenshot%202024-02-29%20114057.png" width="400">
