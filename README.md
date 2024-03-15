@@ -22,3 +22,6 @@ Led strip:
 Just a led strip that changes colors, you can modify what it does within the code.
 
 <img src="https://github.com/JaydenKlomp/ArduinoProjects/blob/main/LedStrip/Screenshot%202024-02-29%20114057.png" width="400">
+
+
+There's also some school project files in the repository
